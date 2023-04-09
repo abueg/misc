@@ -1,2 +1,2 @@
-# misc
-miscellanea
+# misc scripts
+peruse at your own risk
